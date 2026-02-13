@@ -17,7 +17,7 @@ I build complete web applications from seamless user interfaces to robust backen
 
 ### 🚀 Projects & Contributions
 
-- **[Anggie Portfolio](https://github.com/aabdurochman/anggie)**: A full-stack portfolio built with Next.js, Tailwind, and Prisma.
+- **[Anggie Portfolio](https://anggie.dev)**: A full-stack portfolio built with Next.js, Tailwind, and Prisma.
 - **Learning Path**: Actively documenting my journey from HTML basics to advanced React patterns.
 
 ---
